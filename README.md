@@ -37,7 +37,7 @@ Displays key flight-operation KPIs, flight status distribution, arrivals, depart
 
 ### 2. Delay Analysis
 
-Examines average delays, the most delayed flights, airline performance, reported delay causes, and delay patterns across weather conditions.check
+Examines average delays, the most delayed flights, airline performance, reported delay causes, and delay patterns across weather conditions.
 
 ![Delay Analysis Dashboard](screenshots/delay-analysis.png)
 
@@ -98,7 +98,7 @@ cmb-airport-bi-dashboard/
     └── operational-bottlenecks.png
 ```
 
-The dataset should only be included if it is permitted to be shared publicly.
+The dataset should only be included in the public repository if it is permitted to be shared.
 
 ## Limitations
 
