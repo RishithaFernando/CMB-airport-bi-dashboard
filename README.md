@@ -37,7 +37,7 @@ Displays key flight-operation KPIs, flight status distribution, arrivals, depart
 
 ### 2. Delay Analysis
 
-Examines average delays, the most delayed flights, airline performance, reported delay causes, and delay patterns across weather conditions.
+Examines average delays, the most delayed flights, airline performance, reported delay causes, and delay patterns across weather conditions.check
 
 ![Delay Analysis Dashboard](screenshots/delay-analysis.png)
 
