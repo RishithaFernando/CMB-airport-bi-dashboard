@@ -33,25 +33,25 @@ The project uses `BIA_CMB_Dataset.csv`, containing 40 records and 28 fields rela
 
 Displays key flight-operation KPIs, flight status distribution, arrivals, departures, passenger totals, and critical alerts.
 
-![Executive Overview Dashboard](screenshots/executive-overview.png)
+![Executive Overview Dashboard](screenshots/executive-overview.PNG)
 
 ### 2. Delay Analysis
 
 Examines average delays, the most delayed flights, airline performance, reported delay causes, and delay patterns across weather conditions.
 
-![Delay Analysis Dashboard](screenshots/delay-analysis.png)
+![Delay Analysis Dashboard](screenshots/delay-analysis.PNG)
 
 ### 3. International Traffic
 
 Explores destination-level passenger traffic, aircraft surface locations, runway utilization, wind speed versus delay, and critical flights.
 
-![International Traffic Dashboard](screenshots/international-traffic.png)
+![International Traffic Dashboard](screenshots/international-traffic.PNG)
 
 ### 4. Operational Bottlenecks
 
 Analyzes taxi time, turnaround time, queue position, turnaround performance by airline, and the relationship between turnaround time and queue position.
 
-![Operational Bottlenecks Dashboard](screenshots/operational-bottlenecks.png)
+![Operational Bottlenecks Dashboard](screenshots/operational-bottlenecks.PNG)
 
 ## Key Findings
 
